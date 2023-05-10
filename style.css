@@ -1,0 +1,36 @@
+.heading
+{
+    width:100%;
+    font-size: 35px;
+    margin:0;
+    padding:2px;
+    box-shadow: 10px 10px 10px rgb(255, 135, 199);
+    font-family: 'Cookie', cursive;
+}
+
+.note
+{
+    font-size:17px;
+    color:black;
+    font-family: cursive;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    bottom:0;
+    background:rgb(0, 0, 0);
+    width:100%;
+    line-height:2;
+    font-size:26px;
+    color:white;
+    font-family: 'Cookie' , cursive;
+    text-align:center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px pink;
+}
